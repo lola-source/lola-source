@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lola-source
-- 👀 I’m interested in full stack
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on front end and back end
+- 💞️ I’m looking to collaborate on js, python
 - 📫 How to reach me dollyarchie@gmail.com
 
 <!---
