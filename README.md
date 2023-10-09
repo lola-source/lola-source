@@ -47,9 +47,9 @@ Want to know more about me? [Check out my linkedin.](https://www.linkedin.com/in
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lola-source&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/lola-source">
+<!--<a href="https://github.com/lola-source">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=lola-source&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="lolasource's GitHub Stats" />
-</a>
+</a>-->
 
 <br>
 <br>
